@@ -17,6 +17,6 @@ Simular ação de um usuário por meio de seus comportamentos (BDD) ao realizar 
 4. Executar via .feature todo o processo e verificar a mensagem de "“Sending e-mail success!” na tela".
 
 ### Resultado:
-Link: https://www.canva.com/design/DAEhmVXmAyg/wm7oACILhT0cfaGaezUc3Q/view?utm_content=DAEhmVXmAyg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+![](https://github.com/bert1307/ProjetoIndividual/blob/main/img/projetoIndividual.gif)
 
 
